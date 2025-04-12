@@ -26,7 +26,6 @@ const App = () => {
         backgroundImage: `url(${currencyBg})`,
         objectFit: "cover",
         backgroundSize: "100%",
-        backgroundRepeat: 'no-repeat'
       }}
     >
       <div className="max-w-md w-full bg-white/10 border-white/20 backdrop-blur-lg rounded-xl p-6 shadow-lg relative">
