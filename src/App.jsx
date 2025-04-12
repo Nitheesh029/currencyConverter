@@ -62,7 +62,7 @@ const App = () => {
               setTo(currency);
             }}
             selectedCurrency={to}
-            amountDisable
+            amountDisabled
             amount={convertedAmount}
           />
 
